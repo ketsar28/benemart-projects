@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"name","STRING","0","0","0"
+"email","STRING","0","0","0"
+"password","STRING","0","0","0"
+"user_type","STRING","0","0","0"
+"image","STRING","0","0","0"

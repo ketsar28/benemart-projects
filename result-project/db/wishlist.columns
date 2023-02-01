@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"user_id","STRING","0","0","0"
+"pid","STRING","0","0","0"
+"name","STRING","0","0","0"
+"price","STRING","0","0","0"
+"image","STRING","0","0","0"
